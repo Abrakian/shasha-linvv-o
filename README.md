@@ -1,5 +1,5 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
-  
+Abrakian/shadowsocks-libev
+
 > Reminder: Misuse may cause the account to be BAN! !  
 
 TIPS:
