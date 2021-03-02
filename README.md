@@ -1,5 +1,7 @@
 Abrakian/shadowsocks-libev
 
+https://dashboard.heroku.com/new?template=https://github.com/Abrakian/shadowsocks-libev
+
 > Reminder: Misuse may cause the account to be BAN! !  
 
 TIPS:
