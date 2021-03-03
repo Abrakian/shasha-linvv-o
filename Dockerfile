@@ -3,7 +3,7 @@ FROM alpine:edge
 ENV PORT        3000
 ENV PASSWORD    ChangeThis
 ENV METHOD      aes-256-gcm
-ENV PV          1.3.0
+ENV PV          1.3.1
 ENV WSPATH="/ChangeThis"
 
 
